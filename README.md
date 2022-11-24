@@ -1,0 +1,1 @@
+# flask_qr_code_generate_api
